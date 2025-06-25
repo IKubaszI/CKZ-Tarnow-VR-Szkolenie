@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 6281557100372167888}
   m_Layer: 0
   m_Name: CanB
-  m_TagString: Untagged
+  m_TagString: Can
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

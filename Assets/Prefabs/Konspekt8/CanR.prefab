@@ -14,9 +14,10 @@ GameObject:
   - component: {fileID: 5514803548060154333}
   - component: {fileID: 8626484522433486207}
   - component: {fileID: 6640970213974873072}
+  - component: {fileID: -7307774975219443765}
   m_Layer: 0
-  m_Name: CanR 1
-  m_TagString: Untagged
+  m_Name: CanR
+  m_TagString: Can
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -234,3 +235,16 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &-7307774975219443765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8905698506510094693}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fb8e195c9e8a2d42ad0e1f3fd297924, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectileTag: Bullet
