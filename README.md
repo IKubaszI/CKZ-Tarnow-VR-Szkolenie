@@ -97,7 +97,7 @@ Każdy branch to gotowa scena i kod po zakończeniu konkretnego etapu kursu. Uż
 
 Masz pytanie? Coś nie działa?
 
-📧 **Kontakt:** kubaszary@interia.pl  
+**Kontakt:** kubaszary@interia.pl  
 Lub zapytaj prowadzącego na zajęciach.
 
 ---
