@@ -40,7 +40,7 @@ Branch `main` zawiera plik:
 
 ---
 
-## Pozostałe branche: `konspekt-1`, `konspekt-2`, ..., `konspekt-12`
+## Opis branch-y: `konspekt-1`, `konspekt-2`, ..., `konspekt-12`
 
 Każdy branch to gotowa scena i kod po zakończeniu konkretnego etapu kursu. Użyj ich, jeśli:
 - nie zdążyłeś czegoś zrobić,
