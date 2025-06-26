@@ -3,8 +3,8 @@
 Witaj! Jeśli nie udało Ci się wykonać całego konspektu podczas zajęć – nic straconego. Każdy etap kursu dostępny jest w osobnym **branchu** tego repozytorium. Możesz wczytać gotowy stan projektu i kontynuować naukę dokładnie tam, gdzie skończyłeś.
 
 ---
-### Pliki Exe dostępne są w Moja Gra Demo Tech PC!
-### Pliki apk dostępne są w Moja Gra Demo Tech APK!
+### Pliki Exe dostępne są w Demo-Exe-Project!
+### Pliki apk dostępne są w Demo-APK-Project!
 ### Pliki Projektów Demo dostępne są w Moja Gra Demo Tech PC oraz Projekt Koncowy !
 
 ## Jak korzystać z tego repozytorium?
