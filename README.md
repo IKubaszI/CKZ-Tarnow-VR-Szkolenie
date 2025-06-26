@@ -5,7 +5,7 @@ Witaj! Jeśli nie udało Ci się wykonać całego konspektu podczas zajęć – 
 ---
 ### Pliki Exe dostępne są w Demo-Exe-Project!
 ### Pliki apk dostępne są w Demo-APK-Project!
-### Pliki Projektów Demo dostępne są w Moja Gra Demo Tech PC oraz Projekt Koncowy !
+### Pliki Projektów Demo dostępne są w Demo-Example-XR oraz Projekt Koncowy !
 
 ## Jak korzystać z tego repozytorium?
 
