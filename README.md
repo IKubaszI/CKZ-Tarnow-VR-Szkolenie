@@ -4,7 +4,7 @@ Witaj! Jeśli nie udało Ci się wykonać całego konspektu podczas zajęć – 
 
 ---
 ### Pliki Exe dostępne są w Demo-Exe-Project!
-### Pliki apk dostępne są w Demo-APK-Project!
+### Pliki apk dostępne są u prowadzącego lub dysku google https://drive.google.com/drive/folders/1oWox5FqabZBRZDD4mkxwsXsshhPXslEu?usp=sharing!
 ### Pliki Projektów Demo dostępne są w Demo-Example-XR oraz Projekt Koncowy !
 
 ## Jak korzystać z tego repozytorium?
