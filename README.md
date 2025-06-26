@@ -7,8 +7,6 @@ Witaj! Jeśli nie udało Ci się wykonać całego konspektu podczas zajęć – 
 ### Pliki apk dostępne są w Moja Gra Demo Tech APK!
 ### Pliki Projektów Demo dostępne są w Moja Gra Demo Tech PC oraz Projekt Koncowy !
 
-
-
 ## Jak korzystać z tego repozytorium?
 
 ### 1. Zainstaluj GitHub Desktop (zalecane)
@@ -29,7 +27,7 @@ Pobierz aplikację: [https://desktop.github.com](https://desktop.github.com)
 Branch `main` zawiera plik:
 
 **`Materialy.unitypackage`** – paczka z:
-- gotowymi materiałamim
+- gotowymi materiałami,
 - dźwiękami,
 - prefabami,
 - niezbędnymi assetami wspólnymi dla całego kursu.
@@ -42,7 +40,7 @@ Branch `main` zawiera plik:
 
 ---
 
-## Pozostałe branche: `konspekt-1`, `konspekt-2`, ..., `konspekt-10`
+## Pozostałe branche: `konspekt-1`, `konspekt-2`, ..., `konspekt-12`
 
 Każdy branch to gotowa scena i kod po zakończeniu konkretnego etapu kursu. Użyj ich, jeśli:
 - nie zdążyłeś czegoś zrobić,
@@ -61,6 +59,8 @@ Każdy branch to gotowa scena i kod po zakończeniu konkretnego etapu kursu. Uż
 | `konspekt-8`   | Gra: strzelanie do puszek                    |
 | `konspekt-9`   | Ruch gracza: teleport, wspinaczka, skok      |
 | `konspekt-10`  | Budowanie gry do .exe                        |
+| `konspekt-11`  | Import modelu CAD z Inventora do Unity       |
+| `konspekt-12`  | Budowanie gry VR na gogle Oculus (Android)   |
 
 ---
 
@@ -95,6 +95,8 @@ Każdy branch to gotowa scena i kod po zakończeniu konkretnego etapu kursu. Uż
 - **Strzelanie do puszek** – Zbudujesz mini grę z przyciskiem resetującym i dźwiękiem trafień.
 - **Ruch gracza w VR** – Dodasz teleportację, wspinaczkę i skok. Nauczysz się redukować chorobę lokomocyjną.
 - **Budowanie projektu VR** – Wyeksportujesz grę do `.exe`, dodasz własne logo, ikonę i ekran startowy.
+- **Import modelu CAD z Inventora do Unity** – Nauczysz się eksportować modele 3D z Autodesk Inventor do formatu .OBJ i importować je do sceny w Unity.
+- **Budowanie gry VR na gogle Oculus (Android)** – Dowiesz się jak zmienić platformę na Android XR, przygotować build APK i wgrać go na gogle przez SideQuest.
 
 ---
 
@@ -104,6 +106,3 @@ Masz pytanie? Coś nie działa?
 
 **Kontakt:** kubaszary@interia.pl  
 Lub zapytaj prowadzącego na zajęciach.
-
----
-
